@@ -1,0 +1,20 @@
+* {
+ font-size: 100%;
+ font-family: Courier New;
+}
+
+body {
+  padding: 25px;
+}
+
+.title {
+	color: #5C6AC4;
+}
+
+p {
+  text-indent: 30px;
+}
+
+p.no-indent {
+  text-indent: 0px;
+}
