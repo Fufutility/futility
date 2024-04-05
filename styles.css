@@ -1,6 +1,8 @@
-* {
- font-size: 100%;
- font-family: Courier New;
+html {
+	background: #BBB;
+ 	font-size: 100%;
+ 	font-family: Courier New;
+	border: solid 2px #999;
 }
 
 body {
