@@ -2,6 +2,7 @@ html {
 	background: #BBB;
  	font-size: 100%;
  	font-family: Courier New;
+	border: inset 5px #454545;
 }
 
 p {
