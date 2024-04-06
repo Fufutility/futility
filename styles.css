@@ -2,12 +2,11 @@ html {
 	background: #BBB;
  	font-size: 100%;
  	font-family: Courier New;
-	border: inset 5px #999;
 }
 
 p {
   padding: 25px;
-	border: outset 5px #999;
+	border: solid 5px #999;
 }
 
 .title {
