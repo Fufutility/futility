@@ -5,14 +5,10 @@ html {
 }
 
 p {
-	padding: 25px;
-	border: solid 5px #999;
+  padding: 25px;
+	border: outset 5px #999;
 }
 
 .title {
 	color: #5C6AC4;
-}
-
-a {
-	color: #7940AD;
 }
